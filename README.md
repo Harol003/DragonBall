@@ -51,6 +51,75 @@ Video de los programas en ejecucion
 
 https://youtu.be/tq7SZyE7jGY
 
+
+*[Ejmplo UML](#DiagramaClases)
+
+Diagrama Dragon Ball GAME
+
+                     +-----------------+
+                     |    Personaje    |
+                     +-----------------+
+                     | - nombre: String|
+                     | - raza: String  |
+                     | - nivelPelea: int|
+                     | - velocidad: int|
+                     | - nivelDefensa:int|
+                     | - descripcion: String|
+                     | - imagen: ImageIcon |
+                     +-----------------+
+                     | +getNombre(): String |
+                     | +getRaza(): String |
+                     | +getNivelPelea(): int |
+                     | +getVelocidad(): int |
+                     | +getNivelDefensa(): int |
+                     | +getDescripcion(): String |
+                     | +getImagen(): ImageIcon |
+                     +-----------------+
+
+                       |
+                       |   extends
+                       v
+
+        +-------------------------+
+        |    DragonBallGameView   |
+        +-------------------------+
+        | - personajeButtonMap: Map<JButton, Personaje> |
+        | - infoTextArea: JTextArea |
+        | - imagenLabel: JLabel     |
+        +-------------------------+
+        | +DragonBallGameView()    |
+        | +mostrarInformacion(personaje: Personaje) : void |
+        +-------------------------+
+                       |
+                       |
+                       v
++-------------------------+
+|      JFrame (JButton,    |
+|      JTextArea, JLabel)  |
++-------------------------+
+| +setTitle(title: String) |
+| +setSize(width: int,     |
+|        height: int)      |
+| +setDefaultCloseOperation(operation: int) |
+| +setLocationRelativeTo(c: Component)     |
+| +add(comp: Component,    |
+|     constraints: Object) |
++-------------------------+
+| +setVisible(visible: boolean)             |
++-------------------------+
+
+                       |
+                       |   extends
+                       v
+
++-------------------------+
+|   DragonBallGame         |
++-------------------------+
+| +main(args: String[])    |
++-------------------------+
+
+
+
 *[Acceso al proyecto](#acceso-proyecto)
 
 Las siguientes son las credenciales utilizadas para el proyecto.
