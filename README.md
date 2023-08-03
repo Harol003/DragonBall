@@ -37,12 +37,6 @@ El presente proyecto se encuentra en etapa de desarrollo.
 
 A continuacion pueden descargar los proyectos relacionados en su orden a nivel de la serie Dragon Ball Z.
 
-- BetPlay (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia)
-- BetPlay (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia, con interfaz de usuario)
-- BetPlayMVC (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia, en un modelo MVC)
-- Liga Femenina Futbol (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia)
-- Liga Femenina Futbol GUI (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia)
-
 - DragonBallGame        (Aplicacion que permite ver la informacion de los personajes goku y vegeta con una interfaz basica. JFRAME)
 - DragonBallGame2       (Aplicacion que permite ver la informacion de 5 personajes de la seria, con una interfaz basica. JFRAME)
 - DragonBallLogo        (Aplicacion con una unica pantalla para cargar una imagen de fondo, con una interfaz basica. JFRAME)
