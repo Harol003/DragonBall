@@ -90,33 +90,8 @@ Diagrama Dragon Ball GAME
         | +DragonBallGameView()    |
         | +mostrarInformacion(personaje: Personaje) : void |
         +-------------------------+
-                       |
-                       |
-                       v
-+-------------------------+
-|      JFrame (JButton,    |
-|      JTextArea, JLabel)  |
-+-------------------------+
-| +setTitle(title: String) |
-| +setSize(width: int,     |
-|        height: int)      |
-| +setDefaultCloseOperation(operation: int) |
-| +setLocationRelativeTo(c: Component)     |
-| +add(comp: Component,    |
-|     constraints: Object) |
-+-------------------------+
-| +setVisible(visible: boolean)             |
-+-------------------------+
+                    
 
-                       |
-                       |   extends
-                       v
-
-+-------------------------+
-|   DragonBallGame         |
-+-------------------------+
-| +main(args: String[])    |
-+-------------------------+
 
 
 
