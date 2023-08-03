@@ -2,7 +2,7 @@
 Aplicaciones en relacion a la serie animada Dragon Ball. Estas aplicaciones estan desarrolladas para las clases de programación Java. 
 Proyecto (Programación en JAVA - Politecnico Internacional) 
 
-<h1 align="center"> Proyecto Dragon Ball - Politecnico Internacional </h1>
+<h1 align="center"> | Proyecto Dragon Ball - Politecnico Internacional | </h1>
 
 
 ![24635](https://github.com/Harol003/DragonBall/assets/66041310/4d65702b-8d69-42b6-921f-c22a3e51d076)
