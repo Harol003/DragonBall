@@ -49,7 +49,7 @@ A continuacion pueden descargar los proyectos relacionados en su orden a nivel d
 
 Video de los programas en ejecucion
 
-https://youtu.be/tq7SZyE7jGY
+[https://youtu.be/tq7SZyE7jGY](https://www.youtube.com/watch?v=8KVfqbf7gSs)
 
 
 *[Ejmplo UML](#DiagramaClases)
