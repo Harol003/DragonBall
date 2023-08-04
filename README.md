@@ -38,6 +38,10 @@ El presente proyecto se encuentra en etapa de desarrollo.
 A continuacion pueden descargar los proyectos relacionados en su orden a nivel de la serie Dragon Ball Z.
 
 - DragonBallGame        (Aplicacion que permite ver la informacion de los personajes goku y vegeta con una interfaz basica. JFRAME)
+
+![1](https://github.com/Harol003/DragonBall/assets/66041310/643d016a-78c8-414d-94a7-e1fa2eb97cfb)
+
+
 - DragonBallGame2       (Aplicacion que permite ver la informacion de 5 personajes de la seria, con una interfaz basica. JFRAME)
 - DragonBallLogo        (Aplicacion con una unica pantalla para cargar una imagen de fondo, con una interfaz basica. JFRAME)
 - DragonBallSuper       (Aplicacion que permite ver la informacion de los personajes, comparar niveles, mostrar campeones  y cargar una imagen, con una interfaz basica. JFRAME)
