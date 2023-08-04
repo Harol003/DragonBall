@@ -46,12 +46,34 @@ A continuacion pueden descargar los proyectos relacionados en su orden a nivel d
 ![2](https://github.com/Harol003/DragonBall/assets/66041310/5e497636-f5ac-4af5-8ae4-a2a911c21c00)
 
 - DragonBallLogo        (Aplicacion con una unica pantalla para cargar una imagen de fondo, con una interfaz basica. JFRAME)
+
+  ![3](https://github.com/Harol003/DragonBall/assets/66041310/fa51a534-63f2-441e-ba09-1bec49a26946)
+
 - DragonBallSuper       (Aplicacion que permite ver la informacion de los personajes, comparar niveles, mostrar campeones  y cargar una imagen, con una interfaz basica. JFRAME)
+
+![4](https://github.com/Harol003/DragonBall/assets/66041310/f133073e-ce74-4a6d-aff4-77aadcf515ca)
+
 - DragonBallZ           (Aplicacion que permite ver la informacion de los personaje utilizando Getter y Setter)
-- DragonBallZExample    (Aplicacion que permite ver la informacion de los personaje utilizando Getter y Setter) 
+
+![5](https://github.com/Harol003/DragonBall/assets/66041310/832cef32-88a7-46d0-9718-7c131239a7f5)
+
+- DragonBallZExample    (Aplicacion que permite ver la informacion de los personaje utilizando Getter y Setter)
+
+![6](https://github.com/Harol003/DragonBall/assets/66041310/9e90049d-c6e8-4919-820b-c2c61625a4fc)
+
 - DragonBallZGUI        (Aplicacion que permite ver la informacion de 1 personaje de la serie, con una interfaz basica. JFRAME)
+
+![7](https://github.com/Harol003/DragonBall/assets/66041310/df4beb44-96a5-4eb7-94b1-117310ab5a04)
+
 - DragonBallZJPanel     (Aplicacion que permite ver la informacion de 5 personajes con una interfaz basica. JFRAME)
 
+![8](https://github.com/Harol003/DragonBall/assets/66041310/790e578d-4508-4149-84fd-ddcf79b3ecab)
+
+- DragonBallZApp        (Aplicacion que permite ver la informacion de 5 personajes con una interfaz basica y login de usuario. JFRAME)
+
+![9](https://github.com/Harol003/DragonBall/assets/66041310/44ea7fa8-bfe3-4e86-b6fa-e8309cb5ebab)
+
+![10](https://github.com/Harol003/DragonBall/assets/66041310/26184632-8456-435f-b2c1-9c31a8070432)
 
 Video de los programas en ejecucion
 
